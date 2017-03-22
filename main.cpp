@@ -6,7 +6,7 @@
 // < : cin re-direction
 // > : cout re-direction
 // readme: Size is the region around a point of interest that is used to form the description of the keypoint.
-// The larger it is the more regional information is used to describe your featurepoint. also known as scale
+// The larger it is the more regional information is used to describe your featurepoint. also known as scale.
 // As to the response, this defines how strong a keypoint is according to the formulae described by the technique.
 // The higher the value, the more likely the feature will be recognized among several instances of an object.
 int main(int argc, char * argv[]) {
